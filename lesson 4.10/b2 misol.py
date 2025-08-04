@@ -1,0 +1,1 @@
+# select *from authors left join books on authors.id = books.author_id where books.title is null
